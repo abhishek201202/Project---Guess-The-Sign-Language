@@ -1,1 +1,1 @@
-# Real-Time-Sign-Language-Recoginition
+# Guess-The-Sign-Language
